@@ -1,0 +1,87 @@
+ @media only screen and (max-width:768px)
+ {   .row{
+        flex-wrap:wrap;	 
+      }
+     .col-1{
+	    width:100%;
+     }
+    .col-2{
+	    width:100%;
+     }
+	 .banner-list{
+		 flex-direction:column;  
+	 }
+	 .banner-list li{
+		 margin-bottom:10px;
+	 }
+	 .heading-1 {
+	 	 margin-top:0px;
+	 }
+	 .suppliments-col{
+		 width:100%; 
+	 }
+	 .suppliments{
+		 height:auto;
+		 padding-bottom:50px;
+	 }
+	 .health-section{
+		 padding-top:20px;
+		 height:auto;
+		 padding-bottom:40px;
+	 }
+	 .healthy-heading{
+		 font-size:25px;
+	 }
+	 .gym-trainer-col{
+		 width:100%; 
+	 }
+	 .GYM-TRAINER{
+		 padding-bottom:40px;
+		 height:auto;
+	 }
+	 .contact-col{
+		 width:100%;
+	 }
+	.CONTACT-heading{
+    color: white;
+    margin-top: 45px;
+	}
+	.CONTACT-img{
+		 width: 407px;
+	 }
+	 .CONTACT-box {
+	     width: 354px;
+	 }
+	 .contact-button{
+	     margin-left: 234px;
+	 }
+	 .contact-input-para {
+		padding-bottom: -8px;
+	 }
+	 
+	 .last-banner{
+		width:100%;
+		padding:50px 0px;
+	 }
+	 .last-banner-col {
+		width: 100%; 
+	}
+	.last-banner-box{
+		margin: 11px 20px;
+	}
+	.copyright-banner{
+		width:100%;
+	}
+	.copyright-heading {
+    font-size: 20px;
+}
+    .swhys{
+		  padding-top:150px;
+	}
+	.gymy{
+		    padding-top: 58px;
+			}
+	.banner-height{
+		        height: 203px;
+	}
+ }

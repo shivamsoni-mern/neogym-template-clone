@@ -1,0 +1,245 @@
+.banner-section{
+	width:100%;
+	background-image:url("../images/hero-bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+	background-attachment:fixed;
+	height:750px;
+	margin-top: -8px;  
+}
+.inner-page-header{
+	height:30px;  
+	padding:0px 0px 20px 0px;
+}
+.row{
+	display:flex;
+}
+.container{
+	width:90%;
+	margin:0 auto;  
+}
+.col-1{
+	width:30%;
+}
+.neogym-heading{
+	color:white;
+	margin-left:10px;
+	margin-top:10px;
+}
+.col-2{
+	width:70%;
+}
+.banner-list{
+	display:FLEX;
+	list-style-type:none;
+	justify-content:flex-end;
+	
+}
+.banner-list li a{ 
+	color:white;
+	text-decoration:none;
+	margin-right:50px;
+	border-bottom:1px solid transparent;
+	padding-bottom:5px;
+}
+.banner-list li a:hover{
+	border-bottom:1px solid red;
+}
+.heading-1{
+	color:white;
+	text-align:center;
+	margin-top:200PX;
+}
+.heading-2{
+	color:white;
+	text-align:center;
+
+}
+.heading-3{
+	color:white;
+	text-align:center;
+}
+.heading-para{
+	color:white;
+	text-align:center;
+	width:60%;
+	margin:0 auto;
+}
+.banner-contact{
+	 text-align:center;
+	 margin-top:50px;  
+}
+.banner-contact a{
+	color:white;	
+	BORDER:2PX SOLID WHITE;
+	padding:10px 20px;
+	text-decoration:none;
+	
+}
+.suppliments{
+	width:100%;
+	background-image:url("../images/us-bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+	height:550px;	
+	background-attachment:fixed;
+	padding-top:70px;
+}
+.suppliments-h{
+	margin-bottom:50px;
+}
+.suppliments-heading{
+	color:white;
+	text-align:center;
+}
+.suppliments-col{
+	width:25%;
+}
+.suppliments-img{
+  width:100%;
+}
+.suppliments-heading{
+	color:white;
+}
+.suppliments-para{
+	color:white;
+}
+.suppliments-box{
+	text-align:center;
+	margin:10px 15px;
+}
+
+.health-section{
+	width:100%;
+	background-image:url("../images/healthy-bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+	background-attachment:fixed;
+	height:450px;
+	padding-top:100px;
+}
+
+.healthy-heading{
+	text-align:center;
+	color:white;
+}
+.healthy-para{
+	color:white;
+	text-align:center;
+	width:60%;
+	margin:0 auto;
+}
+.HEALTHY-READ-MORE{
+	 text-align:center;
+	 margin-top:50PX;
+	 
+}
+.HEALTHY-READ-MORE a{
+	color:white;	
+	BORDER:2PX SOLID WHITE;
+	padding:10pX 20px;
+	text-decoration:none;
+}
+.GYM-TRAINER{
+	width:100%;
+	background-image:url("../images/TRAINER-bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+	background-attachment:fixed;
+	height:850px;
+	padding-top:100px;
+	
+}
+.gym-trainer-col{
+	width:33%;
+}
+.gym-trainer-name{
+	color:white;
+	text-align:center;
+}
+.trainer-img{
+	width:100%;
+	border-radius:10px;
+}
+.trainer-box{
+	margin:10px 15px;
+}
+.trainer-icon{  
+	list-style-type:none;
+	background:white;
+	display:flex;
+	justify-content:center;
+	padding-left:0px;
+	padding:10px 0px;
+	border-radius:20px;
+	margin:0 auto;
+	margin-top:-30px;
+	position:relative;
+	z-index:11;
+	width:80%;
+}
+.trainer-icon li a i{
+	color:red;
+	font-size:30px;
+	margin-right:20px;
+}
+.contact-banner{
+	width:100%;
+
+}
+.contact-col{
+	width:50%;
+	background:#00264C;
+}
+.CONTACT-heading{
+	color:white;
+	margin-top:100px;
+}
+.CONTACT-box{
+    margin-left: 20px;
+    padding: 15px 17px;
+    width: 430px;
+}
+.contact-input-para{
+	padding-bottom:10px;
+}
+.contact-button{
+	color:WHITE;
+	background:red;
+	margin-left:310px;
+	padding:10px 70px;
+	outline:none;  
+		
+}
+.last-banner{
+	width:100%;
+	background:#252233;
+}
+.last-banner-box{
+		text-align: center;
+		margin: 40px 20px;
+		text-align: center;
+}
+.last-banner-col{
+	width:33%;
+}
+.last-banner-heading{
+	color:white;
+	text-align:center;
+}
+.copyright-banner{
+	width:100%;
+	
+}
+.copyright-heading{
+	text-align:center;
+	color:black;
+
+}
+.contact-form{
+	padding-top:0px;
+}
